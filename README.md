@@ -1,4 +1,4 @@
-- <h1 align="center">Hi 👋, I'm Vytora04</h1>
+<h1 align="center">Hi 👋, I'm Vytora04</h1>
 <h3 align="center">Computer Science student from BINUS University</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vytora04" alt="vytora04" /></a> </p>
